@@ -6,7 +6,7 @@ NitroGen is an Open-Source Discord Nitro Codes Generator.
 This program generates a Discord code and saves it to a text file.
 
 ## Usage for users
-1. Download the latest version from [the releases folder](releases/)
+1. Download the latest version from [the releases folder](https://github.com/NanetteXD/NitroGen/releases)
 2. Unzip the archieve and run NitroGen.exe
 3. Open the text file (NitroCode.txt)
 4. Enjoy!
