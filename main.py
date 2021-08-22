@@ -13,7 +13,7 @@ red = "\e[0;31m"
 green = "\e[0;32m"
 
 try:
-    os.remove("nitroCodes.txt")
+    os.remove("nitroCode.txt")
 except Exception as e:
     print("Error " + str(e))
 
